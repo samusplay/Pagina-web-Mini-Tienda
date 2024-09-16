@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../frotend-developer/Platzi_YardSale_Icons"
+		},
+		{
+			"path": "../frotend-developer/Platzi_YardSale_Logos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mini proyecto"
+	}
+}
